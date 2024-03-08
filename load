@@ -1,5 +1,6 @@
 local WhitelistedUserIds = {
-    ["0000000000"] = true,
+    ["579132206"] = true,
+--expires after: never (me)
     ["1326930300"] = true,
 --expires after: never (whyareublack)
 
