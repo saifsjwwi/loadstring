@@ -23,7 +23,7 @@ local function isWhitelisted(player)
 end
 
 if isWhitelisted(Player) then
-   loadstring(game:HttpGet('https://raw.githubusercontent.com/saifsjwwi/club-iris/main/anticheat'))()
+   loadstring(game:HttpGet('https://rentry.co/r466p7ty/raw'))()
     print("You are whitelisted")
 else
     print("blud is not whitelisted")
