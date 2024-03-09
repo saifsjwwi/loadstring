@@ -9,6 +9,8 @@ local WhitelistedUserIds = {
 --expires after: never (bandos version)
     ["4998689302"] = true,
 --expires in: march 16th (yyasou)
+    ["556209654"] = true,
+--expires in: never (bloodbrainbarrier)
 }
 
 local Player = game.Players.LocalPlayer
