@@ -10,6 +10,8 @@ local WhitelistedUserIds = {
     ["4998689302"] = true,
 --expires in: march 16th (yyasou)
     ["556209654"] = true,
+    ["4192042314"] = true,
+--expires in: march 10th 4pm (2real9)
 --expires in: never (bloodbrainbarrier)
 }
 
