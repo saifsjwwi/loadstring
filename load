@@ -20,6 +20,8 @@ local WhitelistedUserIds = {
 --expires in: march 17th
     ["4964439299"] = true,
 --expires in: never (grv)
+    ["4964439299"] = true,
+--expires in = never (lghtrep)
 }
 
 local Player = game.Players.LocalPlayer
