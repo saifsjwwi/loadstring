@@ -16,6 +16,8 @@ local WhitelistedUserIds = {
     ["3576792553"] = true,
 --expires in: never (nova)
     ["4083642897"] = true,
+    ["1907056038"] = true,
+--expires in: march 17th
 }
 
 local Player = game.Players.LocalPlayer
