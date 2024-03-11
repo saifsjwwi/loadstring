@@ -26,6 +26,8 @@ local WhitelistedUserIds = {
 --expires in: never (grvalt)
     ["1281241466"] = true,
 --me
+    ["4499241210"] = true,
+--me again
 }
 
 local Player = game.Players.LocalPlayer
