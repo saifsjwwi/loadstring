@@ -21,7 +21,7 @@ local WhitelistedUserIds = {
 --expires in: march 17th
     ["4964439299"] = true,
 --expires in: never (grv)
-    ["56"] = true,
+    ["3667274881"] = true,
 --expires in = never (lghtrep)
     ["3614588496"] = true,
 --expires in: never (grvalt)
