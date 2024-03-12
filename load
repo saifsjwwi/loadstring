@@ -29,7 +29,7 @@ local WhitelistedUserIds = {
 --me
     ["4499241210"] = true,
 --me again
-    ["1670870425"] = true 
+    ["1670870425"] = true,
 --expires in: never (jayjay566)
     ["2456629501"] = true,
 --expires in: march 19th 12:04 am
