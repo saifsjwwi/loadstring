@@ -31,8 +31,9 @@ local WhitelistedUserIds = {
 --me again
     ["1670870425"] = true 
 --expires in: never (jayjay566)
-    ["2456629501"] = true 
---expires in: 19 March 12:04 AM (icy)
+    ["2456629501"] = true,
+--expires in: march 19th 12:04 am
+
 }
 
 local Player = game.Players.LocalPlayer
