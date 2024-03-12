@@ -21,7 +21,7 @@ local WhitelistedUserIds = {
 --expires in: march 17th
     ["4964439299"] = true,
 --expires in: never (grv)
-    ["5633938063"] = true,
+    ["56"] = true,
 --expires in = never (lghtrep)
     ["3614588496"] = true,
 --expires in: never (grvalt)
@@ -33,7 +33,7 @@ local WhitelistedUserIds = {
 --expires in: never (jayjay566)
     ["2456629501"] = true,
 --expires in: march 19th 12:04 am (icy)
-    ["1670870425"] = true,
+    ["5633938063"] = true,
 --expires in: 12 April (Dequan76)
 }
 
