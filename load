@@ -43,6 +43,8 @@ local WhitelistedUserIds = {
 --expires in: never (mystic)
     ["4863526687"] = true,
 --expires in: never (aeon)
+    ["2395358569"] = true,
+--expires in: never (cverq)
 }
 
 local Player = game.Players.LocalPlayer
